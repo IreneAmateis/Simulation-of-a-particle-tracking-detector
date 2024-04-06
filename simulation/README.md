@@ -1,4 +1,4 @@
-Imagine to be at Cern, the biggest particle laboratory in th world. LHC is a particle collider where nuclei collide aganist other nuclei and produce secondary particles. This is done in order to study physics fenomena. This is what Irene and I do in this simulation.
+Imagine you are at Cern, the biggest particle laboratory in th world. LHC is a particle collider where nuclei collide aganist other nuclei and produce secondary particles. This is done in order to study physics fenomena. This is what Irene and I do in this simulation.
 
 We simulate the position of the interacting point and from that the generation of secondary particle has been done. In Monte Carlo simulation we have to do the convolution of different processes with different probability.
 
