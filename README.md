@@ -10,4 +10,4 @@ Hence, the work is divided into:
 Simulation
 Reconstruction
 Analysis
-The entire work has been done by Federico Bonaldo and Irene Amateis for the exam in Numeric Analysis and Simulation Technology in December 2022
+The entire work has been done by Irene Amateis and Federico Bonaldo for the exam in Numeric Analysis and Simulation Technology in December 2022
