@@ -1,0 +1,3 @@
+This repository contains the scripts used to analyse data resulting from the reconstruction. 
+The goal is to evaluate the performance of our simulated tracking detector. 
+We evaluate efficiency and resolution in respect to number of generated particles and position of the simulated interaction vertex.
